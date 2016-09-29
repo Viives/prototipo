@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Viiver Protótipo</title>
+    <title>Viives Protótipo</title>
     <script src="app/lib/angular/angular.min.js"></script>
     <script src="app/js/app.js"></script>
     <link rel="stylesheet" href="app/lib/css/bootstrap/bootstrap.min.css">
