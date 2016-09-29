@@ -1,0 +1,21 @@
+body{
+    background-image: url('bgs/bg.jpeg');
+    /*padding-bottom: 40px;*/
+    background-color: #271f2b;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 0;
+}
+.container{
+    margin: auto;
+    /*position: relative;*/
+    top: 33%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+h2{
+    width: 50%;
+    padding-top: 12%;
+    color: antiquewhite;
+}

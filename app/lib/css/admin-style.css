@@ -1,0 +1,63 @@
+#results {
+  width: 435px;
+  height: 100%;
+  position: absolute !important;
+  top: 86%;
+  right: -30px;
+}
+.jumbotron{
+  /*height: 1400px !important;*/
+  padding-top: 5px !important;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+}
+
+.boximportacaoboximportacaogmail{
+
+}
+
+.boximportacaocsv{
+
+}
+
+.jumbotron p {
+  margin-bottom: 1px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 6px;
+  background-color: #B8C3C3;
+  border: 8px;
+}
+
+hr {
+margin-top: 20px;
+margin-bottom: 20px;
+border: 0;
+border-top: 1px solid #d9534f;
+}
+
+
+@media print {
+    .make-grid(sm);
+
+    .visible-xs {
+        .responsive-invisibility();
+    }
+
+    .hidden-xs {
+        .responsive-visibility();
+    }
+
+    .hidden-xs.hidden-print {
+        .responsive-invisibility();
+    }
+
+    .hidden-sm {
+        .responsive-invisibility();
+    }
+
+    .visible-sm {
+        .responsive-visibility();
+    }
+}
