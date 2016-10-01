@@ -14,8 +14,13 @@ body{
     bottom: 0;
     right: 0;
 }
-h2{
-    width: 50%;
-    padding-top: 12%;
-    color: antiquewhite;
+.subscribeform{
+    width: 48%;
+    float: left;
+    position: relative;
+    background-color: whitesmoke;
+    margin-top: 5%;
+    margin-left: 3%;
+    padding: 1%;
+    opacity: 1;
 }
